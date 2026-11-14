@@ -1,3 +1,3 @@
 [submodule "libhangul"]
 	path = libhangul
-	url = https://github.com/gureum/libhangul.git
+	url = https://github.com/kathar0s/libhangul.git
